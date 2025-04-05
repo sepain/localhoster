@@ -1,18 +1,43 @@
 # localhoster 
 
 
-free minecraft nerdy ulilities - now bundled into a single python file.
+free minecraft ulilities for nerds - now bundled into a single python file.
 ___________________________________
 features
 
 - localhost server debugging tool
-- an universal miniblox transition layer fix
+
 ______________________________________________
-in addition, localhoster is easy to use.
+in addition, localhoster is both easy to use, and visually appealing.
+
 it includes-
 - a basic, clean gui
 - text labels
-- a key system (incomplete)
+- built in themes
+- custom theme support
+__________________________
+
+there is a key system ,however it is incomplete and not here.
 ___________________________
 
-instrucrtions coming soon!
+requirments
+
+python 3.13 (not sure min, just what i use) w/ pip
+tkinter
+idk what else (removed icons atm, so)
+
+_______________________________________
+
+custom theme example
+
+{
+    "my_custom_theme": {
+        "bg": "#ff5733", 
+        "fg": "#ffffff", 
+        "entry_bg": "#2a2a2a", 
+        "button_bg": "#4e4e4e"
+    }
+}
+_______________________________________
+
+enjoy!!
