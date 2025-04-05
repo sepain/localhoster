@@ -26,17 +26,16 @@ python 3.13 (not sure min, just what i use), pip,
 tkinter
 
 _______________________________________
-
 custom theme example
-
 {
-    "my_custom_theme": {
-        "bg": "#ff5733", 
-        "fg": "#ffffff", 
-        "entry_bg": "#2a2a2a", 
-        "button_bg": "#4e4e4e"
+    "Ocean Breeze": {
+        "bg": "#3B9C9C", 
+        "fg": "#FFFFFF", 
+        "entry_bg": "#2A2A2A", 
+        "button_bg": "#A5D8D8"
     }
 }
+
 _______________________________________
 
-enjoy!!
+contact me @sepain on discord.
