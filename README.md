@@ -22,9 +22,8 @@ ___________________________
 
 requirments
 
-python 3.13 (not sure min, just what i use) w/ pip
+python 3.13 (not sure min, just what i use), pip, 
 tkinter
-idk what else (removed icons atm, so)
 
 _______________________________________
 
