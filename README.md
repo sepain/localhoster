@@ -11,7 +11,7 @@ ______________________________________________
 in addition, localhoster is easy to use.
 it includes-
 - a basic, clean gui
-- icons in addition to text labels
+- text labels
 - a key system (incomplete)
 ___________________________
 
